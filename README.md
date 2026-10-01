@@ -24,4 +24,4 @@ Python · FastAPI (async) · PostgreSQL / pgvector · LangGraph · MCP · Langfu
 
 [dev.to](https://dev.to/abhijeet284) · [LinkedIn](https://www.linkedin.com/in/abhijeeth-pandey-4532792a0) · abhijeethpandey2@gmail.com
 
-*Also building [STAX], an invite-only founder and builder community in Chennai.*
+
