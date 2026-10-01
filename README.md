@@ -14,7 +14,7 @@ IEEE-published · multiple hackathon wins · Chennai, India (open to relocate or
 
 ### Research
 
-[AR-CITIZEN: AI-Powered AR Civic Engagement Platform](https://ieeexplore.ieee.org/document/11537871/), co-authored, IEEE Xplore.
+[AR-CITIZEN: AI-Powered AR Civic Engagement Platform](https://ieeexplore.ieee.org/document/11537871/), author, IEEE Xplore.
 
 ### Stack
 
